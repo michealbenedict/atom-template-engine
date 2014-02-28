@@ -3,7 +3,7 @@
   "main": "./lib/atom-template-engine",
   "version": "0.2.0",
   "private": true,
-  "description": "Convert between different templating engines",
+  "description": "convert to HTML from different templating engines within the editor.",
   "activationEvents": [
     "template-convert-to:jade",
     "template-convert-to:haml"
@@ -16,7 +16,7 @@
   "repository": "https://github.com/rowoot/atom-template-engine",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.60.0"
   },
   "dependencies": {
     "jade": "~1.2.0",
