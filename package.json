@@ -1,7 +1,7 @@
 {
   "name": "atom-template-engine",
   "main": "./lib/atom-template-engine",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "convert to HTML from different templating engines within the editor.",
   "activationEvents": [
