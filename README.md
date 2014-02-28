@@ -1,10 +1,6 @@
-# atom-template-engine
+# [atom-template-engine](http://atom.io/packages/atom-template-engine)
 
-Convert to HTML from various template engines
-
-## Installation
-1. Clone the package `git clone git@github.com:rowoot/atom-template-engine.git ~/.atom/packages`
-2. Restart the Atom editor
+Convert to HTML from different templating engines within the editor.
 
 ## Usage
 1. Open up command pallette (`cmd+shift+p`)
@@ -21,12 +17,12 @@ Convert to HTML from various template engines
 
 1. Create new `{{templateengine}}.js` file in `template-engines` directory
 2. Export two methods, namely
-````
-{
-  toHTML: function (string), // Return string
-  fromHTML: function (string) // Return string
-}
-````
+  ````
+  {
+    toHTML: function (string), // Return string
+    fromHTML: function (string) // Return string
+  }
+  ````
 3. Check examples in the `template-engines` folder
 
 ## TODO
