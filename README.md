@@ -10,7 +10,7 @@ Convert to HTML from various template engines
 1. Open up command pallette (`cmd+shift+p`)
 2. Search for Template Convert To:
 
-[![Screenshot][https://cloudup.com/c9xIK7qqSNY]][https://cloudup.com/c9xIK7qqSNY]
+![Screenshot](https://i.cloudup.com/IQmKARZgAp.png "Screenshot")
 
 ## Supported template engines
 
