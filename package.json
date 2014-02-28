@@ -1,0 +1,26 @@
+{
+  "name": "atom-template-engine",
+  "main": "./lib/atom-template-engine",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Convert between different templating engines",
+  "activationEvents": [
+    "template-convert-to:jade",
+    "template-convert-to:haml"
+  ],
+  "author": {
+    "name": "Micheal Benedict",
+    "email": "micheal@visionmasterdesigns.com",
+    "url": "http://visionmasterdesigns.com"
+  },
+  "repository": "https://github.com/rowoot/atom-template-engine",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "jade": "~1.2.0",
+    "hamljs": "~0.6.2"
+  },
+  "devDependencies": {}
+}
