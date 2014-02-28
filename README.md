@@ -25,9 +25,11 @@ Convert to HTML from different templating engines within the editor.
   ````
 3. Check examples in the `template-engines` folder
 
+## Testing
+Run `apm test` from the package directory.
+
 ## TODO
-1. End to End testing
-2. Add more templating engines
+1. Add more templating engines
 
 ## License
 
